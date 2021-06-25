@@ -7,7 +7,7 @@
 ```
 - Node: 14.16.0
 
-- yarn start
+- yarn
 ```
 
 ### DEVELOPMENT
